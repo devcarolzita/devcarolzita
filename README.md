@@ -1,7 +1,7 @@
 
 
 <p align="center" > <img src="https://github.com/caabeatriz/caabeatriz/blob/master/img/inicio3.png"> </p>
-<div class="icons">
+<div class="icons" align="center">
 <a href="https://www.linkedin.com/in/caabeatriz/"><img class="img-linkedin"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/linkedin.png" alt="Logo do linkedin">
 </a>
 <a href="https://www.instagram.com/diabareta/">
