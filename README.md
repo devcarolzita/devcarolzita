@@ -1,6 +1,6 @@
 
 
-<p align="center" > <img src="img/inicio3.png"> </p>
+<p align="center" > <img src="https://github.com/caabeatriz/caabeatriz/blob/master/img/inicio3.png"> </p>
 <div class="icons">
 <a href="https://www.linkedin.com/in/caabeatriz/"><img class="img-linkedin"src="img/linkedin.png">
 </a>
