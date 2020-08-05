@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/caabeatriz/"><img class="img-linkedin"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/linkedin.png" alt="Logo do linkedin">
 </a>
 <a href="https://www.instagram.com/diabareta/">
-<img class="img-instagram"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/insta-peq.png" alt="Logo instagram">
+<img class="img-instagram"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/insta-peq.png" alt="Logo instagram" width="60%">
 </a>
 </div>
 <h4 align="center"> Olá, Sou a Caroline 👋 </h4>
