@@ -4,7 +4,7 @@
 <div class="icons" align="center">
 <a href="https://www.linkedin.com/in/caabeatriz/"><img class="img-linkedin"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/linkedin.png" alt="Logo do linkedin">
 </a>
-<a href="https://www.instagram.com/diabareta/">
+<a href="https://www.instagram.com/kroltec/">
 <img class="img-instagram"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/insta-peq.png" alt="Logo instagram" >
 </a>
 </div>
