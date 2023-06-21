@@ -8,7 +8,7 @@
 <img class="img-instagram"src="https://github.com/caabeatriz/caabeatriz/blob/master/img/insta-peq.png" alt="Logo instagram" >
 </a>
 </div>
-<h4 align="center"> Olá, Sou a Caroline 👋 </h4>
+<h4 align="center"> Olá, Sou a Dev Carolzita 👋 </h4>
 <p align="center">
    HTML | CSS | JavaScript | Web Responsivo | Bootstrap 
 </p>
