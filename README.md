@@ -19,6 +19,5 @@
 ![Meu status do GitHub](https://github-readme-stats.vercel.app/api?username=devcarolzita&theme=great-gatsby&show_icons=true) 
 ![Linguagens mais usadas por mim no github](https://github-readme-stats.vercel.app/api/top-langs/?username=devcarolzita&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devcarolzita.devcarolzita)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=devcarolzita&label=Visitantes&countColor=%23263759)
 
