@@ -10,7 +10,7 @@
 </div>
 <h4 align="center"> Olá, Sou a Dev Carolzita 👋 </h4>
 <p align="center">
-    | JavaScript | Web Responsivo | React | Java 
+     JavaScript | Web Responsivo | React | Java 
 </p>
 
 <a href="https://www.notion.so/Front-End-aa544ead4a4a4f9f8c9f4930b7263a2d"><h3 align="center" target="_blank"> 🧠 Painel do dev </h3>  </a>
